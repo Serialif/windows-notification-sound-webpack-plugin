@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Sébastien Filaire",
+    "email": "contact@serialif.com",
+    "url": "https://serialif.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Serialif/windows-notification-sound-webpack-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple Webpack plugin to play the Windows notification sound at the end of the compilation",
+  "homepage": "https://github.com/Serialif/windows-notification-sound-webpack-plugin#readme",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "windows",
+    "notification",
+    "sound"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "windows-notification-sound-webpack-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serialif/windows-notification-sound-webpack-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
